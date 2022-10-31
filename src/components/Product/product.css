@@ -1,0 +1,31 @@
+.product-container{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+    margin-right: 5px;
+    margin-top: 20px;
+
+}
+.product-details{
+    margin-left: 20px;
+}
+
+.product-details a{
+    text-decoration: none;
+    color: black;
+}
+.columns{
+    display: flex;
+}
+.addtocartbutton{
+    padding: 10px 30px;
+    background-color: #F0C14B;
+    border-radius: 5px;
+    border-color: #9C7E31;
+    color: black;
+    cursor: pointer;
+}
+.column-2{
+    margin-left: 30px;
+}
